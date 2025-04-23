@@ -1,0 +1,20 @@
+{
+  "name": "backend-projekti",
+  "version": "1.0.0",
+  "description": "Tiimi 21/ Just Me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AxelPet/Backend-Projekti.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AxelPet/Backend-Projekti/issues"
+  },
+  "homepage": "https://github.com/AxelPet/Backend-Projekti#readme"
+}
