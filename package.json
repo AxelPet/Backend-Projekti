@@ -4,7 +4,9 @@
   "description": "Tiimi 21/ Just Me",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/AxelPet/Backend-Projekti/issues"
   },
-  "homepage": "https://github.com/AxelPet/Backend-Projekti#readme"
+  "homepage": "https://github.com/AxelPet/Backend-Projekti#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
